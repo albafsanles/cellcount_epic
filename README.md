@@ -1,2 +1,2 @@
 # cellcount_epic
-Flow,Sort.EPIC
+FlowSorted.Blood.EPIC and IlluminaHumanMethylationEPICmanifest from Ubuntu
